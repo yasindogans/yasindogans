@@ -58,17 +58,4 @@ karmaşık iş ihtiyaçlarını netleştirip, geliştiriciyle kullanıcı arası
 ⚙️  Süreç             →  Agile, Jira, CI/CD, sürüm onay süreçleri
 \`\`\`
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasindogans&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasindogans&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <em>"İyi bir ürün, iyi sorulmuş bir 'ya şu durumda ne olur?' sorusuyla başlar." 🧪</em>
-</p>
