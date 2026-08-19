@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Yasin 👋</h1>
+<h1 align="center">Merhaba, ben Yasin 👋</h1>
 <h3 align="center">İş Analisti & Test Uzmanı · Bilgisayar Mühendisi</h3>
 
 <p align="center">
-  <em>Turning ideas into measurable solutions — one requirement, one test case at a time.</em>
+  <em>Fikirleri ölçülebilir, test edilebilir çözümlere çeviriyorum. 🚀</em>
 </p>
 
 <p align="center">
@@ -19,14 +19,17 @@
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 💼 **İş Analisti / Test Uzmanı** — gereksinimleri test edilebilir çözümlere dönüştürüyorum
-- 🔍 Web & mobil uygulamalarda **uçtan uca test**, **UAT** ve **API testi** ile ilgileniyorum
-- 🧠 İlgi alanlarım: **girişimcilik**, **uzay** ve **teknoloji**
-- 🎓 Bilgisayar Mühendisliği · İstanbul Kültür Üniversitesi
-- 🌱 Sürekli öğreniyorum: **test otomasyonu** & **CI/CD**
-- 📫 Bana ulaşın: **b.yasindogans@gmail.com**
+Bilgisayar Mühendisliği altyapısına sahip bir **İş Analisti & Test Uzmanıyım**. İşimin özü basit:
+karmaşık iş ihtiyaçlarını netleştirip, geliştiriciyle kullanıcı arasında güvenilir bir kalite köprüsü kurmak.
+
+- 🔍 **Ne yaparım:** Gereksinim analizi, uçtan uca test, UAT ve API testleriyle ürünlerin doğru çalıştığından emin olurum
+- 🧪 **Nasıl yaparım:** Test senaryoları yazar, hataları izler, SQL ile veriyi doğrular, süreçleri Agile & Jira ile yönetirim
+- 🚀 **Neye ilgi duyarım:** Girişimcilik, uzay ve teknoloji — hızlı büyüyen fikirlerin peşindeyim
+- 🌱 **Şu an öğreniyorum:** Test otomasyonu & CI/CD süreçlerini derinleştiriyorum
+- 💬 **Benimle çalışırsanız:** ürün kalitesini, kullanıcı deneyimini ve ölçülebilir sonuçları önemseyen biriyle çalışırsınız
+- 📫 **Ulaşın:** b.yasindogans@gmail.com
 
 ---
 
@@ -48,24 +51,24 @@
 
 ### 📌 What I Do
 
-```text
+\`\`\`text
 🧩  İş Analizi        →  Gereksinim analizi, BPMN/UML, User Story, Use Case
 🧪  Test & Kalite     →  Test senaryosu, UAT, hata takibi, API & servis testi
 📊  Veri              →  SQL ile veri doğrulama ve kök neden analizi
 ⚙️  Süreç             →  Agile, Jira, CI/CD, sürüm onay süreçleri
-```
+\`\`\`
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasindogans&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasindogans&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasindogans&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasindogans&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Fikirleri ölçülebilir çözümlere çeviriyorum." 🚀</em>
+  <em>"İyi bir ürün, iyi sorulmuş bir 'ya şu durumda ne olur?' sorusuyla başlar." 🧪</em>
 </p>
