@@ -2,7 +2,7 @@
 <h3 align="center">İş Analisti & Test Uzmanı · Bilgisayar Mühendisi</h3>
 
 <p align="center">
-  <em>Fikirleri ölçülebilir, test edilebilir çözümlere çeviriyorum. 🚀</em>
+  <em>İş ihtiyaçlarını anlamayı, sadeleştirmeyi ve doğru çalışan ürünlere dönüştürmeyi seviyorum.</em>
 </p>
 
 <p align="center">
@@ -19,21 +19,25 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👋 Hakkımda
 
-Bilgisayar Mühendisliği altyapısına sahip bir **İş Analisti & Test Uzmanıyım**. İşimin özü basit:
-karmaşık iş ihtiyaçlarını netleştirip, geliştiriciyle kullanıcı arasında güvenilir bir kalite köprüsü kurmak.
+Bilgisayar Mühendisliği geçmişine sahip bir **İş Analisti ve Test Uzmanıyım**.
 
-- 🔍 **Ne yaparım:** Gereksinim analizi, uçtan uca test, UAT ve API testleriyle ürünlerin doğru çalıştığından emin olurum
-- 🧪 **Nasıl yaparım:** Test senaryoları yazar, hataları izler, SQL ile veriyi doğrular, süreçleri Agile & Jira ile yönetirim
-- 🚀 **Neye ilgi duyarım:** Girişimcilik, uzay ve teknoloji — hızlı büyüyen fikirlerin peşindeyim
-- 🌱 **Şu an öğreniyorum:** Test otomasyonu & CI/CD süreçlerini derinleştiriyorum
-- 💬 **Benimle çalışırsanız:** ürün kalitesini, kullanıcı deneyimini ve ölçülebilir sonuçları önemseyen biriyle çalışırsınız
-- 📫 **Ulaşın:** b.yasindogans@gmail.com
+İş tarafındaki ihtiyaçları anlamak, bunları teknik ekip için netleştirmek ve ortaya çıkan ürünün beklendiği gibi çalıştığından emin olmak üzerine çalışıyorum.
+
+Günlük işlerimde gereksinim analizi, test senaryoları, UAT, API testleri ve hata takibi gibi süreçlerle ilgileniyorum. Gerektiğinde SQL ile veriyi kontrol ediyor, farklı ekiplerle birlikte sorunların kaynağını anlamaya çalışıyorum.
+
+Teknik tarafı anlayabilmenin yanında, kullanıcı deneyimi ve iş ihtiyacını da gözden kaçırmamaya önem veriyorum.
+
+Şu sıralar özellikle **test otomasyonu ve CI/CD süreçleri** üzerine kendimi geliştiriyorum.
+
+Teknoloji dışında girişimcilik, uzay ve yeni ürün fikirleri de ilgimi çekiyor. 🚀
+
+📫 Bana ulaşmak istersen: **b.yasindogans@gmail.com**
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ Kullandığım Teknolojiler & Araçlar
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -49,13 +53,10 @@ karmaşık iş ihtiyaçlarını netleştirip, geliştiriciyle kullanıcı arası
 
 ---
 
-### 📌 What I Do
+### 📌 Nelerle İlgileniyorum?
 
-\`\`\`text
-🧩  İş Analizi        →  Gereksinim analizi, BPMN/UML, User Story, Use Case
-🧪  Test & Kalite     →  Test senaryosu, UAT, hata takibi, API & servis testi
-📊  Veri              →  SQL ile veri doğrulama ve kök neden analizi
-⚙️  Süreç             →  Agile, Jira, CI/CD, sürüm onay süreçleri
-\`\`\`
-
-
+```text
+🧩  İş Analizi       → Gereksinim analizi, User Story, Use Case, BPMN / UML
+🧪  Test & Kalite    → Test senaryoları, UAT, hata takibi, API testleri
+📊  Veri             → SQL ile veri kontrolü ve problem analizi
+⚙️  Süreç            → Agile, Jira, CI/CD ve sürüm süreçleri
