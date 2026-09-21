@@ -1,8 +1,9 @@
 <h1 align="center">Merhaba, ben Yasin 👋</h1>
-<h3 align="center">İş Analisti & Test Uzmanı · Bilgisayar Mühendisi</h3>
+
+<h3 align="center">Technical Product · Business Analysis · Product Development</h3>
 
 <p align="center">
-  <em>İş ihtiyaçlarını anlamayı, sadeleştirmeyi ve doğru çalışan ürünlere dönüştürmeyi seviyorum.</em>
+  <em>Teknoloji, veri ve iş ihtiyaçlarını bir araya getirerek kullanılabilir ürünler ortaya çıkarmayı seviyorum.</em>
 </p>
 
 <p align="center">
@@ -21,42 +22,80 @@
 
 ### 👋 Hakkımda
 
-Bilgisayar Mühendisliği geçmişine sahip bir **İş Analisti ve Test Uzmanıyım**.
+Bilgisayar mühendisliği altyapısına sahip, **ürün geliştirme ve iş analizi** tarafında çalışan biriyim.
 
-İş tarafındaki ihtiyaçları anlamak, bunları teknik ekip için netleştirmek ve ortaya çıkan ürünün beklendiği gibi çalıştığından emin olmak üzerine çalışıyorum.
+Teknik ekiplerle iş ekipleri arasında köprü kurmayı; kullanıcı ihtiyaçlarını, veriyi ve iş gereksinimlerini analiz ederek bunları uygulanabilir ürün gereksinimlerine dönüştürmeyi seviyorum.
 
-Günlük işlerimde gereksinim analizi, test senaryoları, UAT, API testleri ve hata takibi gibi süreçlerle ilgileniyorum. Gerektiğinde SQL ile veriyi kontrol ediyor, farklı ekiplerle birlikte sorunların kaynağını anlamaya çalışıyorum.
+Çalışmalarımda özellikle **Product Discovery, gereksinim analizi, user story oluşturma, süreç tasarımı, UAT ve veri analizi** taraflarında aktif rol alıyorum.
 
-Teknik tarafı anlayabilmenin yanında, kullanıcı deneyimi ve iş ihtiyacını da gözden kaçırmamaya önem veriyorum.
+SQL ve API'ler üzerinden ürün ve operasyon verilerini inceleyebiliyor, teknik ekiplerle çözüm alternatiflerini değerlendirebiliyor ve geliştirilen özelliklerin uçtan uca sürecini takip edebiliyorum.
 
-Şu sıralar özellikle **test otomasyonu ve CI/CD süreçleri** üzerine kendimi geliştiriyorum.
+Kod yazabilmek benim için bir amaçtan çok, **ürünü ve sistemi daha iyi anlayabilmek için kullandığım bir araç**.
 
-Teknoloji dışında girişimcilik, uzay ve yeni ürün fikirleri de ilgimi çekiyor. 🚀
+Şu sıralar özellikle **Technical Product Management, ürün analitiği, otomasyon ve yapay zekâ destekli ürünler** üzerine kendimi geliştiriyorum.
 
-📫 Bana ulaşmak istersen: **b.yasindogans@gmail.com**
-
----
-
-### 🛠️ Kullandığım Teknolojiler & Araçlar
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+GitHub'da ise hem teknik yetkinliklerimi geliştirdiğim projeleri hem de kendi geliştirdiğim ürün fikirlerini paylaşmayı hedefliyorum. 🚀
 
 ---
 
-### 📌 Nelerle İlgileniyorum?
+### 🧩 İlgi Alanlarım
 
 ```text
-🧩  İş Analizi       → Gereksinim analizi, User Story, Use Case, BPMN / UML
-🧪  Test & Kalite    → Test senaryoları, UAT, hata takibi, API testleri
-📊  Veri             → SQL ile veri kontrolü ve problem analizi
-⚙️  Süreç            → Agile, Jira, CI/CD ve sürüm süreçleri
+🚀 Product          → Product Discovery, Roadmap, Backlog, User Stories
+🧩 Business Analysis → Requirements, Use Case, BPMN / UML, Process Design
+📊 Product Analytics → SQL, Funnel Analysis, Metrics, User Behaviour
+🔌 Technical         → APIs, Integrations, System Analysis, UAT
+⚙️ Delivery          → Agile, Jira, Git, CI/CD
+🤖 AI & Automation   → AI Products, Automation, LLM-based Applications
+```
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+#### Product & Analysis
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+
+#### Development & Infrastructure
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+
+---
+
+### 🚀 Şu Anda Odaklandıklarım
+
+* Veri odaklı ürün geliştirme
+* Technical Product Management
+* Product Analytics & Funnel Analysis
+* API ve sistem entegrasyonları
+* AI destekli ürünler ve otomasyon
+* Kendi ürünlerimi fikirden çalışan ürüne dönüştürmek
+
+---
+
+### 💡 Yaklaşımım
+
+> **Understand the problem → Analyse the data → Design the solution → Build → Measure → Improve**
+
+Bir problemi yalnızca teknik olarak çözmekten ziyade, **neden çözülmesi gerektiğini, kullanıcıya ve iş sonucuna nasıl etki ettiğini** anlamaya çalışıyorum.
+
+---
+
+### 📫 İletişim
+
+Yeni ürünler, teknoloji, girişimcilik veya birlikte geliştirilebilecek fikirler hakkında konuşmak istersen:
+
+**📩 [b.yasindogans@gmail.com](mailto:b.yasindogans@gmail.com)**
+
+🌐 [yasindogan.com](https://yasindogan.com)
+💼 [linkedin.com/in/yasindogans](https://www.linkedin.com/in/yasindogans)
